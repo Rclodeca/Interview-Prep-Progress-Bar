@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.progress-container {
+  height: 20px;
+  background-color: blue;
+  width: 50px;
+}
